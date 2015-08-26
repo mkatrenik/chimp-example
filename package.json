@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel": "^5.8.21",
     "chimp": "^0.14.1"
   }
 }
