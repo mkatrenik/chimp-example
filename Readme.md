@@ -3,7 +3,7 @@
 
 ##Setup
 
-prerequisites are node & java
+prerequisites are node & java (& phantomjs if you want to use it)
 
 ##First run
 ```bash
